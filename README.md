@@ -13,7 +13,7 @@ A machine learning-powered UAV (drone) fault detection system. Predicts potentia
 - **ML Model:** scikit-learn-based classification
 
 ---
-
+```
 ## Project Structure
 
 uav-fault-detection/
@@ -31,8 +31,7 @@ uav-fault-detection/
 ├── .gitignore
 └── README.md
 
-yaml
-Copy code
+```
 
 ---
 
@@ -49,8 +48,7 @@ pip install -r requirements.txt
 Usage
 Run backend API:
 
-bash
-Copy code
+```
 cd api
 uvicorn main:app --reload
 Open frontend/index.html in a browser.
@@ -71,11 +69,11 @@ numpy==1.26.4
 scipy==1.16.1
 
 Uvicorn
-
-License
+```
+##License
 MIT License
-
-Developed by Payaswini Rauta
+```
+##Developed by Payaswini Rauta
 
 
 
