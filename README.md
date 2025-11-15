@@ -66,11 +66,11 @@ scipy==1.16.1
 Uvicorn
 ```
 ```
-##License
+License
 MIT License
 ```
 ```
-##Developed by Payaswini Rauta
+Developed by Payaswini Rauta
 
 
 
