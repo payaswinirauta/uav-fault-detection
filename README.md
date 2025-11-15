@@ -65,11 +65,10 @@ numpy==1.26.4
 scipy==1.16.1
 Uvicorn
 ```
-```
+---
 License
 MIT License
-```
-```
+---
 Developed by Payaswini Rauta
 
 
