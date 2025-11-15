@@ -49,7 +49,7 @@ Usage
 Run backend API:
 
 ```
-cd api
+##cd api
 uvicorn main:app --reload
 Open frontend/index.html in a browser.
 
@@ -59,19 +59,16 @@ See predicted fault in real-time.
 
 Dependencies
 Python 3.11+
-
 FastAPI
-
 scikit-learn==1.2.2
-
 numpy==1.26.4
-
 scipy==1.16.1
-
 Uvicorn
+```
 ```
 ##License
 MIT License
+```
 ```
 ##Developed by Payaswini Rauta
 
