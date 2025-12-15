@@ -81,13 +81,15 @@ This project implements a Machine Learning–based UAV fault detection system us
 Below are the demo screenshots showing real-time predictions and backend logs:
 
 FRONTEND:-
-https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20194046.png
+![Frontend Prediction]
+(https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20194046.png
 https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20193821.png
 https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20193710.png
-https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20193948.png
+https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20193948.png)
 
 BACKEND:-
-https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20193917.png
+![Backend Logs]
+(https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20193917.png)
 
 
 _Model training documented in `train_model.ipynb` (Kaggle dataset)_
