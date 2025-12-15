@@ -21,9 +21,7 @@ A **Machine Learning-powered UAV (drone) fault detection system** using real mul
 
 ---
 ```
-##
-```
-Project Structure
+##Project Structure
 
 uav-fault-detection/
 ├── frontend/
