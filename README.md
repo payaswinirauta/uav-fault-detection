@@ -97,7 +97,7 @@ BACKEND:-
 (https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20193917.png)
 
 
-_Model training documented in `train_model.ipynb` (Kaggle dataset)_
+_Model training documented in `https://github.com/payaswinirauta/uav-fault-detection/blob/main/train_model.ipynb` (Kaggle dataset)_
 
 ---
 ### Results
