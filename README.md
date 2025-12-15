@@ -81,6 +81,7 @@ FRONTEND:-
 https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20194046.png
 https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20193821.png
 https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20193710.png
+https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20193948.png
 
 BACKEND:-
 https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%202025-12-15%20193917.png
