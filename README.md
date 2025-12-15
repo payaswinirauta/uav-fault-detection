@@ -1,6 +1,10 @@
 # UAV Fault Detection
 
-A machine learning-powered UAV (drone) fault detection system. Predicts potential faults using motor RPM, gyroscope, and accelerometer sensor data. Backend built with FastAPI; frontend uses HTML/CSS with floating drone animations.
+This project implements a Machine Learning–based UAV fault detection system using
+real multivariate drone sensor data. The model is trained to classify fault vs no-fault
+conditions using motor RPM, gyroscope, and accelerometer readings.
+
+Model training is documented in `train_model.ipynb` (trained on Kaggle using CMU/NASA UAV dataset).
 
 ---
 
