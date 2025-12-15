@@ -90,6 +90,11 @@ https://github.com/payaswinirauta/uav-fault-detection/blob/main/Screenshot%20202
 _Model training documented in `train_model.ipynb` (Kaggle dataset)_
 
 ---
+### Results
+- Random Forest classifier achieved **94% accuracy** on UAV sensor fault detection.
+- Real-time predictions via FastAPI API.
+---
+---
 ```
 License
 MIT License
