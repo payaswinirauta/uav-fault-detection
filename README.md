@@ -103,7 +103,9 @@ License
 MIT License
 ---
 ```
-Developed by Payaswini Rauta
+## Developed by
+```
+Payaswini Rauta
 
 
 
