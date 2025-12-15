@@ -1,20 +1,23 @@
-# UAV Fault Detection
+# UAV Fault Detection System
 
-This project implements a Machine Learning–based UAV fault detection system using
-real multivariate drone sensor data. The model is trained to classify fault vs no-fault
-conditions using motor RPM, gyroscope, and accelerometer readings.
-
-Model training is documented in `train_model.ipynb` (trained on Kaggle dataset).
+A **Machine Learning-powered UAV (drone) fault detection system** using real multivariate drone sensor data (motor RPM, gyroscope, accelerometer). Predicts potential faults in real-time via a FastAPI backend with an interactive HTML/CSS frontend.
 
 ---
 
 ## Features
+- Real-time fault prediction using sensor input
+- Backend API using **FastAPI** for ML predictions
+- Frontend with **animated drones** and responsive design
+- ML model trained using **scikit-learn Random Forest classifier**
+- End-to-end **Full-Stack ML project** (Python + FastAPI + HTML/CSS/JS)
 
-- **Real-time fault prediction** via sensor input
-- **FastAPI backend** for API-based predictions
-- **HTML/CSS frontend** with animated drones
-- **Responsive design** for desktop & mobile
-- **ML Model:** scikit-learn-based classification
+---
+
+## Technologies / Skills
+- **Machine Learning:** scikit-learn, Anomaly Detection, Sensor Data (IMU, Gyro, Accelerometer, RPM)  
+- **Backend:** Python, FastAPI, REST APIs, Model Deployment  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Tools:** Git, Postman, VS Code  
 
 ---
 ```
