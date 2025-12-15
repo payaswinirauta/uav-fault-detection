@@ -21,7 +21,9 @@ A **Machine Learning-powered UAV (drone) fault detection system** using real mul
 
 ---
 ```
-## Project Structure
+##
+```
+Project Structure
 
 uav-fault-detection/
 ├── frontend/
@@ -42,9 +44,10 @@ uav-fault-detection/
 
 ---
 
-## Installation
+##
+```
+Installation
 
-```bash
 git clone https://github.com/payaswinirauta/uav-fault-detection.git
 cd uav-fault-detection
 python -m venv venv
@@ -56,7 +59,9 @@ Usage
 Run backend API:
 
 ```
-##cd api
+
+```
+cd api
 uvicorn main:app --reload
 Open frontend/index.html in a browser.
 
@@ -73,7 +78,9 @@ scipy==1.16.1
 Uvicorn
 ```
 ---
-## Demo / Screenshots
+##
+```
+Demo / Screenshots
 
 ```
 This project implements a Machine Learning–based UAV fault detection system using real multivariate drone sensor data. The model is trained to classify fault vs no-fault conditions using motor RPM, gyroscope, and accelerometer readings. 
