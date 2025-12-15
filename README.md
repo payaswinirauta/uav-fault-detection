@@ -101,7 +101,7 @@ _Model training documented in `train_model.ipynb` (Kaggle dataset)_
 ```
 License
 MIT License
----
+
 ```
 ## Developed by
 ```
