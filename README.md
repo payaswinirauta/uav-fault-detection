@@ -4,7 +4,7 @@ This project implements a Machine Learning–based UAV fault detection system us
 real multivariate drone sensor data. The model is trained to classify fault vs no-fault
 conditions using motor RPM, gyroscope, and accelerometer readings.
 
-Model training is documented in `train_model.ipynb` (trained on Kaggle using CMU/NASA UAV dataset).
+Model training is documented in `train_model.ipynb` (trained on Kaggle dataset).
 
 ---
 
@@ -72,6 +72,7 @@ Uvicorn
 ---
 ## Demo / Screenshots
 
+```
 This project implements a Machine Learning–based UAV fault detection system using real multivariate drone sensor data. The model is trained to classify fault vs no-fault conditions using motor RPM, gyroscope, and accelerometer readings. 
 
 Below are the demo screenshots showing real-time predictions and backend logs:
@@ -79,12 +80,14 @@ Below are the demo screenshots showing real-time predictions and backend logs:
 ![Frontend Prediction](Screenshot 2025-12-15 193948.png)
 ![Backend Logs](frontend/assets/images/Screenshot_2025-12-15_193858.png)
 
-_Model training documented in `train_model.ipynb` (Kaggle / CMU NASA UAV dataset)_
+_Model training documented in `train_model.ipynb` (Kaggle dataset)_
 
+---
 ```
 License
 MIT License
 ---
+```
 Developed by Payaswini Rauta
 
 
